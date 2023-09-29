@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[]) {
-	printf("Hello World!\n");
-	printf("Welcome to C language!");
+	printf("Welcome to C language!\n");
+	printf("C is the best language!\n");
 }
